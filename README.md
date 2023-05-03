@@ -10,7 +10,7 @@ Preparati ad intraprendere un'avventura virtuale nel vasto mondo dei Pokémon e 
 
 ## ..Cosa faccio io??
 
-Mi piacerebbe dedicarmi alla ricerca sui pokemon, per saperne sempre di più. Nella realtà, sono un junior front-end developer e mi occupo di sviluppare progetti non troppo complessi proprio come questo. 
+Mi piacerebbe dedicarmi alla ricerca sui pokemon, per saperne sempre di più. Nella realtà, sono un junior front-end developer e mi occupo di sviluppare progetti non troppo complessi, proprio come questo. 
 
 ## Prima di tutto parlami un pò di tè!
 
