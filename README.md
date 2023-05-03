@@ -4,7 +4,7 @@
 
 Benvenuto nel mondo dei Pokémon! Io non sono il Professor Oak e questo mondo in cui viviamo non è abitato da creature chiamate "Pokémon". Tuttavia, questa semplice web application ti offre l'opportunità di esplorare l'affascinante universo dei Pokémon, proprio come un vero Allenatore!
 
-Grazie a questa Web Application, potrai scoprire e approfondire la conoscenza di tutti i 1008 Pokémon conosciuti finora, comprese le loro caratteristiche, abilità e statistiche base. Che tu sia un esperto appassionato di Pokémon o un curioso principiante, questa app ti fornirà tutte le informazioni di cui hai bisogno per conoscere ogni singolo Pokémon, proprio come se avessi un vera e proprio Pokedex in mano.
+Grazie a questa Web Application, potrai scoprire e approfondire la conoscenza di tutti i 1008 Pokémon conosciuti finora, comprese le loro caratteristiche, mosse e statistiche base. Che tu sia un esperto appassionato di Pokémon o un curioso principiante, questa app ti fornirà tutte le informazioni di cui hai bisogno per conoscere ogni singolo Pokémon, proprio come se avessi un vera e proprio Pokedex in mano.
 
 Preparati ad intraprendere un'avventura virtuale nel vasto mondo dei Pokémon e a diventare un esperto conoscitore di queste affascinanti creature. [Clicca qui](https://pokeapi-dexapp-84a8ca.netlify.app/) per avviare il Pokédex. Buona esplorazione, Allenatore!  
 
