@@ -45,6 +45,10 @@ const imgStyles = {
 
 const NotFoundPage = () => {
   const getStyles = () => {
+    if (typeof window === 'undefined') {
+      return pageStyles;
+    }
+
     const isMobile = window.innerWidth <= 768;
     return isMobile ? { ...pageStyles, ...pageStylesMobile } : pageStyles;
   };
