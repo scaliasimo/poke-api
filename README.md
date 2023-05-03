@@ -58,6 +58,12 @@ yarn develop
 
 Dopo aver eseguito questi passaggi, il server di sviluppo dovrebbe essere in esecuzione all'indirizzo [localhost:8000](http://localhost:8000/). Apri il tuo browser e visita questo indirizzo per visualizzare il Pokédex in azione. Buon divertimento!
 
+## Tecnologie Usate
+
+* Gatsby.js
+* Styled Components
+* [PokéApi](https://pokeapi.co) RESTful per il listing e GraphQL per le specifiche del singolo Pokémon
+
 ## Contributi 🤝
 
 Le Pull Request sono più che benvenute! Ma prima di lanciarti in grandi cambiamenti, apri un'issue per discutere di cosa vorresti modificare. In questo modo, possiamo lavorare insieme per rendere il mondo dei Pokémon ancora più fantastico!
