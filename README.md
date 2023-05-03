@@ -62,7 +62,7 @@ Dopo aver eseguito questi passaggi, il server di sviluppo dovrebbe essere in ese
 
 * Gatsby.js
 * Styled Components
-* [PokéApi](https://pokeapi.co) RESTful per il listing e GraphQL per le specifiche del singolo Pokémon
+* [PokéApi](https://pokeapi.co) - RESTful per il listing e GraphQL per le specifiche del singolo Pokémon
 
 ## Contributi 🤝
 
