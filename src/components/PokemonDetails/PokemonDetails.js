@@ -191,7 +191,7 @@ const PokemonDetail = ({ pokemonId }) => {
                 .pokemon_v2_pokemonspeciesflavortexts[0]
                 ? pokemonData.pokemon_v2_pokemonspecy
                     .pokemon_v2_pokemonspeciesflavortexts[0].flavor_text
-                : 'N/A'}
+                : 'Nessuna descrizione disponibile al momento :('}
             </p>
             <GridElementCaratteristiche>
               {' '}
@@ -382,6 +382,8 @@ const StyledTabsContainer = styled(Tabs)`
   @media (max-width: 760px) {
     margin-top: -50px;
     margin-bottom: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
   }
 `;
 
@@ -517,16 +519,6 @@ const Moves = styled.div`
 
   p {
     font-size: 16px;
-  }
-
-  @media (max-width: 768px) {
-    h2 {
-      font-size: 16px;
-    }
-
-    p {
-      font-size: 14px;
-    }
   }
 `;
 

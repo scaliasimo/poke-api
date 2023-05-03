@@ -16,5 +16,5 @@ const IndexPage = () => {
 export default IndexPage;
 
 export const Head = () => (
-  <title>Pokéapp | I tuoi Pokémon preferiti sempre a portata di mano</title>
+  <title>DexApp | I tuoi Pokémon preferiti sempre a portata di mano</title>
 );
